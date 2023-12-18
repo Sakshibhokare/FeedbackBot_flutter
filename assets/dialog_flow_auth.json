@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "centralogic-mf9s",
+  "private_key_id": "25b4544a1f5c6918081bbf064a1bf6e49808e0db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMlcmoVYLu178k\n/0W2s9Gw99nzrF2aw3zzspLaEIVQvyHzfjYV10d3rItWR7TZVIbs39+JK+K30eN2\nU/opy/jFNZs0bkicQv9O17ernwBYFHmy/gZV6vfmA2xxD5QfQmRnWYyaMfUUeW8w\n2B7MjbQ5SiwW3b0HJNj7YdG+leYDKMrOAqPbEUHy99OAuhCwAem+puPzW/L7L1wn\nhCXfsejfeXsdPylGZ9n7o4+mJPC5DfASMvLaVl50PMlIvuvRULo1GFoAwu0pNm9i\nLu7QMC/J/FVENbndRtyirhs1Xgh7H5PIq/X/TLzzqtQqnecxgylvyopn7tbdLA4D\nbDBQYAD1AgMBAAECggEACyXTUp9G4+2wzkWJqS+0X/oAGpQcbUvfLGahNA2H533k\nDfZP4KdLJI/Wmi7h7CC8Eb642cA2Lvwvx+QXYtJ+PagS4GEXsZ9rStgcJkIi/Omw\nCvXmvE+czqAGTJqDy03tFijt7X4GOSV3zq0hb9XTNExLdDsvaxWnLCV+Thixa0pj\nYgjc9DeqjSOoj7NoznqMnGYEmK+rBEYgJekToO3oQbZz2lA+wC8RKbYIKDnDqdqu\nhhm3xQR+qViiGpnMg3eyBTgWerAvGPsxZUGb+PQiBvLpcLG81FkK3ufw2zwdBuwF\npQhT4h2V3Pc8NTn6IuUnBavp9184k5Tt/QkGHE+YwQKBgQDnrnZhVlk83KqCFCBF\nRCpwqxgz57khIG6PYdFMTK1SbySLs4DJEYY7hMg7nCZtsMOEWmL4eo8nYk96iW5i\neXYrk577xYymH7935nPjLEyOb/iKNeuH8vf9OsKqE4kDdE1r96nXmKjQjH9wm5ha\n2Mc+qHs9bcIobn0cjAGLafFBtQKBgQDiDzcrE7a0Sr5wBtZYfDn8/vxmHyC6sRxZ\nhV+VLbWzZc8E8qcXQ6TbfeLSsoYaiknCrAVAL7Fx/wKn7VCQa8wvTiLhqtvS7Zr/\njT7tUvWC9mLk01zEI3a1fyXXjFle62WrpphyQTvjqlzrCCQywMpzmw27rV3SC4co\nbdDMrKBKQQKBgQCMxMhQ5DJcdId1ed0RuRVAV/TgtM8bfaUvoXOWNJCrIbTG3U5G\n3Ur+JvOypHIE+/4QEQtJhs4sU+OOxKo5Uyul1pAm0iVfWrLvmyqWwXfSo94TvCdb\n9xkO2AEnba82VhgkndqokK0h6fwU47VynXySabRX4rSx9FA4ZCkcGEbqcQKBgCKW\nJ1+s3XhKM0balPLm1sxxitZpDs3hiS/dKxmc677t5bWhFpWFoPSAFzMbY08uN0jU\nnt0KLwD8/kAJHBlslMnsD4QtawKjneJZjvYqiiumXM0b1Yag0mnEcVrAO3A9Xcnc\nbFiWyH31s8+16CvnuVHkuD4tsTwQzXYPDzIxezjBAoGBAMNhhEmgUSzYmQ6YpODZ\naCHm/ZJ5kdVq55u5GDM4ffuxF2vOJjvzrI76gHDzRjoyan9lIAO+OfZ2vCBk1eqi\nivtBixhdEuU4L6S+fdGLROIRa3eT2LEI1rJzj4qtla22xHzMuu165V1lFbxJHZVW\nVywmv6gYBq42lvSFNepa+j7g\n-----END PRIVATE KEY-----\n",
+  "client_email": "centralogic-bot@centralogic-mf9s.iam.gserviceaccount.com",
+  "client_id": "113385318585198531750",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/centralogic-bot%40centralogic-mf9s.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
